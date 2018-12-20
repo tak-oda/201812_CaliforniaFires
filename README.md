@@ -1,6 +1,6 @@
-Name
-====
 Behavior of Twitter Bot in California Fires
+====
+
 
 ## Objective
 This individual project analyzed twitter data on California wild fire 'Campfire' which was occurred on November 2018.
